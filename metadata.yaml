@@ -1,5 +1,8 @@
 _repo: Our-Nuclear-Future-Facts-Dangers-and-Opportunities_66408
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66408-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Teller, Edward
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53797'
     url: http://www.gutenberg.org/2009/agents/53797
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66408#Our-Nuclear-Future-Facts-Dangers-and-Opportunities
 gutenberg_issued: '2021-09-28'
 identifiers:
   gutenberg: '66408'
